@@ -17,8 +17,10 @@
     "@nuxtjs/eslint-module": "^4.1.0",
     "@typescript-eslint/parser": "^6.4.1",
     "@unocss/nuxt": "^0.55.3",
+    "@vicons/ionicons5": "^0.12.0",
     "eslint": "^8.48.0",
     "eslint-plugin-vue": "^9.17.0",
+    "naive-ui": "^2.34.4",
     "nuxt": "^3.7.0",
     "typescript": "*"
   }
