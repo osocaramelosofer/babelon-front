@@ -3,6 +3,8 @@
 
 <template>
   <div>
-    <h1>Hola</h1>
+    <h1 text-red-600>
+      Hola
+    </h1>
   </div>
 </template>
